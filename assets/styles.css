@@ -1,0 +1,66 @@
+﻿html {
+ background-color: #eeeeee;
+    background-image: url('photo.png');
+    background-size: 100% 50%;
+}
+body {
+    color: #ffc6be;
+    text-align: center;
+}
+h1 {
+    color: #ffa1c5;
+    font-size: 90px;
+    margin: 0;
+}
+.top-container {
+    font-family: 'Sacramento', cursive;
+    padding: 0;
+    margin: 100px 0 0 0;
+    font-size: 50px;
+    font-weight: bold;
+    color: #a773c3;
+}
+h2 {
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    color: #ffa1c5;
+}
+.profilepic {
+    height: 3in;
+    width: 2.5in;
+}
+.middle-container {
+    font-family: 'Merienda', cursive;
+    font-size: 20px;
+}
+.skills{
+    margin-top:300px;
+}
+a:link{
+    color: lightgray;
+}
+.btn{
+    color: black;
+}
+.skills-img{
+    padding: 30px;
+    height: 150px;
+    width: 150px;
+}
+.contact-me{
+    font-size: 20px;
+}
+p{
+    margin:0;
+}
+.bottom-container{
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+.email {
+    font-size: 10px;
+}
+.emailpic{
+    height:50px;
+    width: 50px;
+}
